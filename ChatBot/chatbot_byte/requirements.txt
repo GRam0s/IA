@@ -1,3 +1,1 @@
-flask
-flask-cors
-anthropic
+$env:GROQ_API_KEY="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"
